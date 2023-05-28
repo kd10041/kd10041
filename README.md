@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there !
 
 <!--
 **kd10041/kd10041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Kumar Divyanshu . I am currently pursuing Bachelors of Technology in Electrical Engineering from IIT Kharagpur .
+* Sophomore at IIT Kharagpur .
+* Aspiring Software Developer .
+* Knowledge in C and C++ .
+* Decent Knowledge of Data Structures and Algorithms .
+* Web Development ( Front-end Web development )
+* Machine Learning ( Supervised Machine learning )
+* Currently Exploring Competitive Programming and Open source programming 
+* Hobbies : Table Tennis 
+### Collaboration and growth are important to me, and I am eager to connect with like-minded individuals to explore new opportunities. So Let's connect and build together!
